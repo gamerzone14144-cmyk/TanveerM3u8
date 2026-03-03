@@ -1,0 +1,24 @@
+{
+    "name": "Telegram-m3u8-Converter",
+    "description": "A Telegram bot for convert m3u8 files.",
+    "env": {
+        "8698277473:AAH6DZ7Ba3GV1E4OhM5tSpZDD25R5pH-VR8": {
+            "required": true
+        },
+        "8698277473": {
+            "required": true
+        },
+        "bf0cc3f062841935d3d5da65134ca4cf": {
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ]
+}
+

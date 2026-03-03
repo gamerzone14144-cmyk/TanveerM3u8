@@ -1,4 +1,3 @@
-# TanveerM3u8
 # Telegram-m3u8-Converter
 A Telegram m3u8 converter bot.
 -------------------------------
