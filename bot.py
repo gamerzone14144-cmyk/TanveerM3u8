@@ -7,7 +7,7 @@ from time import time
 
 api_id = os.environ['13516702']
 api_hash = os.environ['bf0cc3f062841935d3d5da65134ca4cf']
-bot_token = os.environ['8698277473:AAH6DZ7Ba3GV1E4OhM5tSpZDD25R5pH-VR8']
+bot_token = os.environ['8698277473:AAGYz7I71I2shCOa_5nN4-kR1HN81DSHWaE']
 
 app = Client('m3u8', api_id, api_hash, bot_token=bot_token)
 
